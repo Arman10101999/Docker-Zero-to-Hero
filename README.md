@@ -123,6 +123,8 @@ There are three important things,
 
 ### Understanding the terminology (Inspired from Docker Docs)
 
+#### Docker Hub
+
 
 #### Docker daemon
 
